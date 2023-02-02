@@ -1,4 +1,3 @@
-
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400italic,400);
 
 body {
@@ -24,7 +23,7 @@ padding: 4px 15px 4px 5px;
 
 #button{
 display: inline-block;
-background-color:#fc999b;
+background-color:#6d19e2;
 color:#ffffff;
 border-radius: 5px;
 text-align:center;
@@ -56,6 +55,6 @@ li > crossOutButton {
 	background: none;
 	border: none;
 	float: right;
-	color: #025f70;
+	color: #0dcdef;
 	font-weight: 800;
 }
